@@ -1,0 +1,10 @@
+Rough Draft Planning
+- Utilize dataset (AI Companies)
+- Implement Couple of SQL scripts to visualize information.
+- Upload to Tableau => Diagram
+
+
+
+Resources:
+- unzip --help
+https://www.sqltutorial.org/sql-create-table/
